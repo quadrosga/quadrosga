@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriela
 Full Stack Software Developer
 -----------------------------
 
-I'm a 29 years old developer with a passion for technology and problem-solving. My focus is front and back-end development.
+I'm a 29 year old developer with a passion for technology and problem-solving. My focus is front and back-end development.
 
 I am currently a student at [EBAC](https://t.ly/UZYOV](https://ebaconline.com.br/) - British School of Criative Arts & Technology.
 
